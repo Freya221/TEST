@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="curator-client-2.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/native-libs/curator-client-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/curator-framework-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/hadoop-common-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/hadoop-auth-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/jackson-annotations-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/jackson-core-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/jackson-databind-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/kafka_2.10-0.8.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/spark-catalyst_2.10-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/spark-core_2.10-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/spark-sql_2.10-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/spark-streaming-kafka_2.10-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/spark-streaming_2.10-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/native-libs/zookeeper-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
